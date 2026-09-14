@@ -1,7 +1,0 @@
-How to Run:
-
-py -3.11 -m venv venv
-venv\Scripts\activate
-pip install opencv-python numpy pycaw comtypes
-pip install mediapipe==0.10.21
-python airvolume_pro.py
